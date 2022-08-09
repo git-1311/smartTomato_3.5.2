@@ -1,0 +1,16 @@
+{
+  "__version__": "1.0.2",
+  "general": {
+    "designResolution": {
+      "fitHeight": false,
+      "width": 1080,
+      "height": 2400
+    }
+  },
+  "layer": [
+    {
+      "name": "default",
+      "value": 1
+    }
+  ]
+}
